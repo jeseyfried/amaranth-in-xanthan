@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Frank Ruhl Libre');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 
@@ -16,7 +16,7 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  font-family: 'Frank+Ruhl+Libre:wght@300..900&display=swap', sans-serif;
+  font-family: 'Frank Ruhl Libre', serif;
   line-height: 1.4em;
   background-color: #fefefe;
   font-size: 15px;
@@ -36,7 +36,7 @@ TYPOGRAPHY
 *****************************************************/
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Frank+Ruhl+Libre:wght@300..900&display=swap', sans-serif;
+  font-family: 'Frank Ruhl Libre', serif;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
@@ -48,7 +48,7 @@ h1 {
 }
 
 .home-title h1 {
-  font-family: 'Frank+Ruhl+Libre:wght@300..900&display=swap', sans-serif;
+  font-family: 'Frank Ruhl Libre', serif;
   color:#fff;
   font-size: 3rem;
   margin-top: -1.2em;
@@ -81,7 +81,7 @@ hr {
 }
 
 p {
-  font-family: 'Frank+Ruhl+Libre:wght@300..900&display=swap', sans-serif;
+  font-family: 'Frank Ruhl Libre', serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
 }
@@ -221,7 +221,7 @@ figure {
 
 figcaption {
   color:#888;
-  font-family: 'Frank+Ruhl+Libre:wght@300..900&display=swap', sans-serif;
+  font-family: 'Frank Ruhl Libre', serif;
   display:block;
   font-size:.8rem;
   margin:.4rem 0 1rem 0;
@@ -298,7 +298,7 @@ DIRECTORY CARDS
 }
 
 .card h3 {
-font-family: 'Frank+Ruhl+Libre:wght@300..900&display=swap';
+font-family: 'Frank Ruhl Libre';
 font-size: 1.5rem;
 font-weight: bold;
 margin: .5rem 0 1rem 0;
@@ -341,7 +341,7 @@ IMAGE CAROUSEL
 p.carousel-caption {
   color:black;
   text-align:left;
-  font-face:'Frank+Ruhl+Libre:wght@300..900&display=swap';
+  font-face:'Frank Ruhl Libre';
   font-size:1.4rem;
   text-shadow:none;
   border:0px solid black;
