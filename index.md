@@ -4,6 +4,11 @@ layout: base
 date: 2024-12-02
 ---
 
+{% include jumbotron.html
+  height="60"
+  image-url="/assets/bg-images/amaranth-header.png"
+%}
+
 
 {% include figure.html
   class="img-right"
