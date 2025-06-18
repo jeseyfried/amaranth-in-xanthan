@@ -1,7 +1,7 @@
 ---
-title: Getting Started
+title: Amaranth
 layout: base
-date: 2024-12-02
+date: 2025-06-18
 ---
 
 {% include jumbotron.html
@@ -28,7 +28,7 @@ View the 360 photo with info labels to see what Amaranth has to offer!
 
 <iframe 
   src="https://jeseyfried.github.io/amaranth-holding-area/app-files/index.html" 
-  width="150%" 
+  width="100%" 
   height="800" 
   style="border:none;overflow:hidden"
   allow="fullscreen"
