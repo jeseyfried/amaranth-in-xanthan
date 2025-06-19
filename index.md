@@ -1,6 +1,7 @@
 ---
 title: Amaranth
 layout: base
+hide_banner: true
 date: 2025-06-18
 ---
 
