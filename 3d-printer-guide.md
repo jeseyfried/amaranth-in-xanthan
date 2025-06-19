@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 3D Printing Guide
+title: 3D Printer Guide
 subtitle: 
 author: Jonathan Seyfried
 date: 2025-06-19
