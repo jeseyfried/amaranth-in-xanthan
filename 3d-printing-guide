@@ -1,7 +1,11 @@
 ---
-permalink: /3d-printer-guide/
-title: "3D Printer Guide"
+layout: base
+title: 3D Printing Guide
+subtitle: 
+author: Jonathan Seyfried
+date: 2025-06-19
 ---
+
 
 <h2>3D Printing using Orca Slicer (software app) and the Anycubic Kobra 3 Printer (hardware)</h2>
 
