@@ -23,7 +23,7 @@ date: 2025-06-19
 <figure>
     <img src="assets/bg-images/Orca-slicer1.png"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." class="img-left" width="700" height="400">
-</figure><br><br>
+</figure><br><br><br><br><br><br><br><br>
 
 + Adjust the dimensions and any other print settings.
 + Then click 'Sice plate' at the top of the screen.<br>
