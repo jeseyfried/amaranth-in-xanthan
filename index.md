@@ -26,8 +26,8 @@ To book a time for a lab orientation or to use the equipment visit our <a href="
   image-url="assets/bg-images/amaranth-header.png"
   pre-box-space="100"
   box-content=" 
-       See, there is a text box scrolling by, visible after the whole background came into view. Once this text box scrolls off the top of the page, you'll start to see the next section emerge at the bottom of the screen. To book a time for a lab orientation or to use the equipment visit our <a href="https://outlook.office365.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/">booking page</a>."
-%}
+       See, there is a text box scrolling by, visible after the whole background came into view. Once this text box scrolls off the top of the page, you'll start to see the next section emerge at the bottom of the screen. To book a time for a lab orientation or to use the equipment visit our <a href="https://outlook.office365.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/">booking page</a>."%}
+
 
 <br>
 
