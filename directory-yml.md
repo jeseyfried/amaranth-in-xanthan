@@ -24,7 +24,7 @@ chapters:
     link: "thesis/chapter-2"
 
   - title: "Friction Maps"
-    image: "assets/bg-images/friction-map-tile.jpg"
+    image: "assets/bg-images/friction-map-tile.png"
     summary: 3D printed maps that illustrate the friction that blocks political expansion or cultural influence.
     link: "thesis/chapter-2"
 
