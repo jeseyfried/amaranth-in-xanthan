@@ -4,7 +4,7 @@ layout: base
 date: 2024-10-26
 chapters: 
   - title: "Medieval Capitals and Gothic Architecture"
-    image: https://viking.style/wp-content/uploads/2024/04/galileus2505_During_Viking_seasonal_celebrations_Viking_feasts__d22f4d95-2b9b-4521-8933-4277c04de6e0.jpg
+    image: <image-url="assets/bg-images/capitals-together-small.jpg">
     summary: This chapter explores the ceremonial and religious aspects of food in Viking society, examining feasts, sacrificial offerings, and mythological references to food and drink in Norse texts.
     link: "thesis/chapter-1"
 
