@@ -19,7 +19,7 @@ chapters:
     link: "thesis/chapter-2"
 
   - title: "HGSA Poster Contest"
-    image: "https://www.hurstwic.org/history/articles/daily_living/pix/jonsbok_whale_flensing_illumination.jpg"
+    image: "assets/bg-images/four-posters.png"
     summary: Demonstrating the capability of Amaranth's poster printer.
     link: "thesis/chapter-2"
 
