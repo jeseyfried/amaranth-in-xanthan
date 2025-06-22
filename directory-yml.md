@@ -9,13 +9,8 @@ chapters:
     link: "thesis/chapter-1"
 
   - title: "Digital Essays"
-    image: "https://www.hurstwic.org/history/articles/daily_living/pix/jonsbok_whale_flensing_illumination.jpg"
+    image: "assets/bg-images/word-docs.jpg"
     summary: How to create an online space for what students create in a course.
-    link: "thesis/chapter-2"
-
-  - title: "Story Maps"
-    image: "https://www.hurstwic.org/history/articles/daily_living/pix/jonsbok_whale_flensing_illumination.jpg"
-    summary: Focusing on the archaeological and environmental evidence, this chapter reconstructs the daily diet of the Viking Age, highlighting key ingredients, farming practices, and seasonal food cycles.
     link: "thesis/chapter-2"
 
   - title: "HGSA Poster Contest"
