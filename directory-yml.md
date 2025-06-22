@@ -10,7 +10,7 @@ chapters:
 
   - title: "Digital Essays"
     image: "https://www.hurstwic.org/history/articles/daily_living/pix/jonsbok_whale_flensing_illumination.jpg"
-    summary: Focusing on the archaeological and environmental evidence, this chapter reconstructs the daily diet of the Viking Age, highlighting key ingredients, farming practices, and seasonal food cycles.
+    summary: How to create an online space for what students create in a course.
     link: "thesis/chapter-2"
 
   - title: "Story Maps"
@@ -20,17 +20,17 @@ chapters:
 
   - title: "HGSA Poster Contest"
     image: "https://www.hurstwic.org/history/articles/daily_living/pix/jonsbok_whale_flensing_illumination.jpg"
-    summary: Focusing on the archaeological and environmental evidence, this chapter reconstructs the daily diet of the Viking Age, highlighting key ingredients, farming practices, and seasonal food cycles.
+    summary: Demonstrating the capability of Amaranth's poster printer.
     link: "thesis/chapter-2"
 
   - title: "Friction Maps"
-    image: https://en.natmus.dk/typo3temp/assets/images/csm_Fladbroed_70aaf8033f_6b018df9bd.jpg
-    summary: This chapter investigates how food production, especially brewing and baking, intersected with trade networks and social status, emphasizing the role of imported goods and culinary identity in Viking culture.
+    image: "assets/bg-images/friction-map-tile.jpg"
+    summary: 3D printed maps that illustrate the friction that blocks political expansion or cultural influence.
     link: "thesis/chapter-2"
 
   - title: "Podcast Repository"
     image: https://en.natmus.dk/typo3temp/assets/images/csm_Fladbroed_70aaf8033f_6b018df9bd.jpg
-    summary: This chapter investigates how food production, especially brewing and baking, intersected with trade networks and social status, emphasizing the role of imported goods and culinary identity in Viking culture.
+    summary: A sample website for an archive of student-created podcasts.
     link: "thesis/chapter-2"
 ---
 
