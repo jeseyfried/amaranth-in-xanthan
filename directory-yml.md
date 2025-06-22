@@ -19,7 +19,7 @@ chapters:
     link: "thesis/chapter-2"
 
   - title: "HGSA Poster Contest"
-    image: "assets/bg-images/four-posters.png"
+    image: "assets/bg-images/four-posters.jpg"
     summary: Demonstrating the capability of Amaranth's poster printer.
     link: "thesis/chapter-2"
 
