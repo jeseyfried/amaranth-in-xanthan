@@ -22,7 +22,7 @@ For more information about the Revopoint POP3 scanner and software, visit their 
 </figure><br><br>
 Scanning Every Surface
 + After completing separate scans for each rotated side of the object, you will have multiple scan files listed on the lefthand side of the application screen.
-+ Go through each of these and delete unwanted material. In the example in the picture below, we deleted the ring around the base of the object.
++ Go through each of these and delete unwanted material. In the example in the picture below, we would next delete the ring around the base of the object.
 <figure>
     <img src="assets/bg-images/Revoscan-procedures-1.png"
          alt="Initial scanned material." width="700" height="400">
@@ -42,3 +42,4 @@ Merging and Exporting the Model
 + Choose which type of file format for your Export:
   1. For 3D printing, export in STL format
   2. For viewing in 3D in a virtual environment on the internet, choose GLTF format
+<br><br><br>
