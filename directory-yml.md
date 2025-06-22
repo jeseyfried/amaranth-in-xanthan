@@ -29,7 +29,7 @@ chapters:
     link: "thesis/chapter-2"
 
   - title: "Podcast Repository"
-    image: https://en.natmus.dk/typo3temp/assets/images/csm_Fladbroed_70aaf8033f_6b018df9bd.jpg
+    image: "assets/bg-images/headphones.jpg"
     summary: A sample website for an archive of student-created podcasts.
     link: "thesis/chapter-2"
 ---
