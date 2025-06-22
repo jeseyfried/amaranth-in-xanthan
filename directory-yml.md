@@ -36,7 +36,7 @@ chapters:
 
 
 
-## Amaranth Use Cases
+# Amaranth Use Cases
 <!-- change row-cold-md-2 to 3 or 4 for different number of cols -->
 <div class="row row-cols-1 row-cols-md-2 g-4">
 
