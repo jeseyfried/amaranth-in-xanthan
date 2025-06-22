@@ -30,3 +30,4 @@ For full instructions and documentation visit the <a href="https://onlinemanual.
 + Export the 360 photo from Insta360 Studio as a JPG file.
 + Upload the JPG to Marzipano and add info hotspots. This is a user-friendly process on the Marzipano web-app interface.
 + The only export format allowed from Marzipano is a zipped folder. The folder will likely contain over 100 files and this quantity might cause complications when trying to upload to spaces such as Github. We have a workaround for this if you need help.
+<br><br><br><br>
