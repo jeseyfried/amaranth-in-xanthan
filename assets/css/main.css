@@ -257,9 +257,9 @@ figcaption a {
 }
 
 footer {
-  margin-top:2em;
-  padding: 2em;
-  background-color: #823b3b;
+  margin-top:0em;
+  padding: 0em;
+  background-color: #FFFFFF;
   color:#ccc;
   text-align: center;
 }
