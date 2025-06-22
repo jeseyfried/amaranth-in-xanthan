@@ -16,10 +16,7 @@ date: 2025-06-18
 # Welcome to Amaranth
 
 Amaranth is the UNM Department of History's digital public history studio.
-
-We invite you to explore the current projects and offerings by navigating through the menus at the top of the screen.
-
-To book a time for a lab orientation or to use the equipment visit our <a href="https://outlook.office365.com/owa/calendar/HistoryAmaranth@unmm.onmicrosoft.com/bookings/">booking page</a>.<br>
+We invite you to explore the current projects and offerings by navigating through the menus at the top of the screen. Scroll down for a tour.
 
 {% include bg.html
   height="220"
