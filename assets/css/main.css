@@ -256,6 +256,15 @@ figcaption a {
   font-weight:normal;
 }
 
+.site-footer {
+  width: 100%;
+  background: #222;
+  color: #fff;
+  padding: 2em 0;
+  text-align: center;
+  /* Remove or avoid: max-width, margin: 0 auto; */
+}
+  
 footer {
   margin-top:0em;
   padding: 0em;
