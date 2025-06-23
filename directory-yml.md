@@ -6,17 +6,17 @@ chapters:
   - title: "Medieval Capitals and Gothic Architecture"
     image: "assets/bg-images/capitals-together-small.jpg"
     summary: Using 3D prints to deepen understanding of Gothic styles.
-    link: "thesis/chapter-1"
+    link: "capitals"
 
   - title: "Digital Essays"
     image: "assets/bg-images/word-docs.jpg"
     summary: How to create an online space for what students create in a course.
-    link: "thesis/chapter-2"
+    link: "digital-essays"
 
   - title: "HGSA Poster Contest"
     image: "assets/bg-images/four-posters.jpg"
     summary: Demonstrating the capability of Amaranth's poster printer.
-    link: "thesis/chapter-2"
+    link: "poster-contest"
 
   - title: "Friction Maps"
     image: "assets/bg-images/friction-map-tile.png"
@@ -26,7 +26,7 @@ chapters:
   - title: "Podcast Repository"
     image: "assets/bg-images/headphones.jpg"
     summary: A sample website for an archive of student-created podcasts.
-    link: "thesis/chapter-2"
+    link: "podcasts"
 ---
 
 
