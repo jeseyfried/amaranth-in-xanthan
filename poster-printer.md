@@ -20,4 +20,4 @@ The below screenshot shows the correct settings for sending a print to the poste
          alt="A screenshot of the correct settings for a poster print." class="img-left" width="300" height="400">
 </figure><br><br>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
