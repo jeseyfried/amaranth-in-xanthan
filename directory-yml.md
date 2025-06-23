@@ -3,9 +3,9 @@ title: Directory
 layout: base
 date: 2024-10-26
 chapters: 
-  - title: "Medieval Capitals and Gothic Architecture"
+  - title: "Medieval Capitals"
     image: "assets/bg-images/capitals-together-small.jpg"
-    summary: Using 3D prints to deepen understanding of Gothic styles.
+    summary: Using 3D prints to deepen understanding of Gothic architectural styles.
     link: "capitals"
 
   - title: "Digital Essays"
