@@ -18,7 +18,12 @@ date: 2025-06-19
 <iframe width="1000" height="526" src="https://www.youtube.com/embed/2CurchA4HT8" title="AnyCubic Tries Multicolor: The AnyCubic Kobra 3 Combo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Tips for Preparing the Print File</h2>
-+ Open the Orca Slicer application and import an STL file. 
++ Open the Orca Slicer application and ensure that the Anycubic Kobra 3 printer is selected. The printer settings should look like the below screenshot.
+<figure>
+    <img src="assets/bg-images/orca-printer-settings.png"
+         alt="Correct printer settings for the Orca slicer." class="img-left" width="300" height="200">
+</figure>
++ Import an STL file. 
 + After rotating it and snapping it to the build plate, it should look like what you see in the image below.
 <figure>
     <img src="assets/bg-images/Orca-slicer1.png"
