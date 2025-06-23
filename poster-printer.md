@@ -17,7 +17,7 @@ The printer uses inkjet cartridges, which are expensive to replace, so please re
 The below screenshot shows the correct settings for sending a print to the poster printer.
 <figure>
     <img src="assets/bg-images/poster-print-dialog.jpg"
-         alt="A screenshot of the correct settings for a poster print." class="img-left" width="700" height="400">
+         alt="A screenshot of the correct settings for a poster print." class="img-left" width="500" height="400">
 </figure><br><br>
 
 <br><br><br><br><br>
