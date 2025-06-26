@@ -6,7 +6,7 @@ author: Jonathan Seyfried
 date: 2025-06-19
 ---
 
-<h2>3D Terrain and Tension Maps</h2>
+<h2>3D Terrain and Friction Maps</h2>
 
 This use case includes printing basic terrain as well as exploring additional 3D features to represent borderlands concepts.
 
